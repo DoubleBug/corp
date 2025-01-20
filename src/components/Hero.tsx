@@ -8,7 +8,7 @@ interface Props {
 	// children: React.ReactNode;
 }
 
-const accessLink = ['/', '/performance', 'reliability', '/scale']
+// const accessLink = ['/', '/performance', 'reliability', '/scale']
 
 export default function page(props: Props) {
 	return (
